@@ -1,0 +1,52 @@
+.name{
+    text-align: center;
+    align-items: 15px;
+    font-weight: bold;
+    
+}
+.container{
+        display: flex;
+        flex-direction: column;
+        /* align-items: center; */
+}
+#data
+{
+    margin-bottom: 10px;
+}
+#data input {
+    padding:10px;
+   
+}
+
+label{
+    padding: 15px;
+    width: 100px;
+    display: inline-block;
+    
+   
+}
+
+input{
+   margin-right: 2px;
+   border: 1px solid black;
+}
+button{
+    padding: 10px; 
+    font-size: medium;
+    margin-right: 30%;
+    display:inline;
+
+}
+table,th,td{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+  
+
+}
+option{
+    font-size: medium;
+    font-weight: bold;
+
+}
